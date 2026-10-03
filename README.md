@@ -5,6 +5,6 @@
 - Kenan Sanu
 
 AI uses:
-- Part of the slide presentation's design.
+- Part of the slide presentation's design, mainly the logo.
 - Some AI was used for the UI's initial skeleton
 - AI was used for debugging
